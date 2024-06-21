@@ -1,4 +1,4 @@
-Student Planner Console Application
+Student Planner Console Application.
 This is a console-based application designed for students to manage their study schedules. The application allows users to add, delete, update, and view events such as study sessions, including details like date, topics, sources, and notes. The application uses Entity Framework and is written in C# with .NET.
 
 Features
@@ -52,3 +52,4 @@ View All Events: Display all the events stored in the database.
 View Event by Date: Enter the date to view the details of the corresponding event.
 Exit: Exit the application.
 With this configuration, you should be able to use the Student Planner Console Application smoothly.
+
